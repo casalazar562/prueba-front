@@ -63,7 +63,7 @@ El proyecto contiene los siguientes archivos:
 
 1. Clonar el repositorio:
    ```sh
-   git clone [URL_DEL_REPO]
+   git clone https://github.com/casalazar562/prueba-front.git
    ```
 2. Acceder al directorio del proyecto:
    ```sh
