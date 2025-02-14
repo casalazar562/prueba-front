@@ -1,0 +1,97 @@
+.clear {
+    clear: both;
+}
+
+/* Completar aquí la respuesta  */
+
+body {
+    text-align: center;
+    background: #faf3e0;
+}
+
+#contenedor {
+    width: 600px;
+    margin: 0 auto 10px auto;
+    padding: 10px;
+    border: 1px dashed grey;
+}
+
+.bloque1 {
+    background: #e63946;
+    color: white;
+}
+
+.bloque1,
+.bloque2 {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+#contenedor .bloque1 p {
+    font-style: italic;
+}
+
+#contenedor .bloque1 {
+    margin-top: 70px !important;
+}
+
+.bloque2 p {
+    font-weight: bold;
+}
+
+.bloque2 {
+    background: #ffdd57;
+    color: black;
+}
+
+#contenedor .bloque1,
+#contenedor .bloque2 {
+    width: 100px;
+    margin: 5px;
+    float: left;
+}
+
+p {
+    padding: 10px;
+}
+
+.v-container {
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.v-container div {
+    max-width: 500px;
+    margin: 0 auto 20px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+    border-radius: 0.2rem;
+    font-weight: 700;
+    max-width: 100px;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
+    background: #e63946;
+}
+.btn:hover {
+    background-color: #ffdd57;
+    font-weight: bold;
+    color: black;
+}
+
+.output {
+    font-weight: bold;
+    margin: 0 auto 5px;
+    margin-top: 10px;
+}
+
+.hidden {
+    display: none;
+}
+.grayBg {
+    background-color: #e6e6e6;
+}
