@@ -56,6 +56,8 @@ El proyecto contiene los siguientes archivos:
 ├── public/
 │   ├── index.html        
 │
+├── problema1.php             
+├── problema2.xls             
 ├── README.md             
 ```
 
